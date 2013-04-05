@@ -1,0 +1,12 @@
+Board Game Clock
+
+App install on multiple devices among friends. When playing board games, everyone joins the game and use the clock with same time limit. 
+
+When one finishes his move, clock for next person starts.
+
+If one does not have Android device, someone else can setup two users.
+
+
+Add friends: use Facebook account, also have app ID/username, so people can search for each other. (Use GREE for leader board?)
+
+Game log: game name, number of people, participants, start/end time, ranking.
